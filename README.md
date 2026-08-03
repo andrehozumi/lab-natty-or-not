@@ -25,4 +25,4 @@ O resultado foi um vídeo explicativo e preventivo para as mulheres sobre o Mar�
 Foi desafiador pois muitas IAs são pagas e tem limites, mas ao mesmo tempo satisfatório quando fui vendo o resultado.
 
 ## Link do vídeo final:
-[https://studioah.com.br/wp-content/uploads/2026/08/MARCO_LILAS-1.mp4 ](https://studioah.com.br/wp-content/uploads/2026/08/MARCO_LILAS.mp4)
+https://studioah.com.br/wp-content/uploads/2026/08/MARCO_LILAS.mp4 
