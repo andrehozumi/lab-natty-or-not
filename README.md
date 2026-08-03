@@ -13,8 +13,11 @@ O projeto consistiu na criação de um avatar exclusivo para representar a campa
 
 ## 🧐 Processo de Criação
 O processo iniciou com a criação de uma personagem inspirada na fita lilás, símbolo da campanha Março Lilás, utilizando o **Gemini** para gerar um avatar com identidade visual própria.
+
 Em seguida, foi elaborado um roteiro dividido em cenas curtas e dinâmicas com o auxílio do **ChatGPT**, buscando transmitir a mensagem de forma clara, objetiva e envolvente.
+
 Com o roteiro definido, foram produzidos pequenos vídeos a partir das imagens utilizando o **Leonardo AI**, dando vida ao avatar e às cenas planejadas.
+
 Por fim, todas as sequências foram editadas e organizadas no **CapCut**, onde foram adicionadas transições, trilha sonora, legendas e ajustes finais para compor um único vídeo pronto para publicação.
 
 ## 🚀 Resultados
